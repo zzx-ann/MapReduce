@@ -1,2 +1,3 @@
-xbl\ReadHdfsFile.class
-xbl\IpToCcByMysql.class
+xbl\WordCount.class
+xbl\hans_Map.class
+xbl\hans_Reduce.class
